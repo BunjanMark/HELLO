@@ -68,7 +68,7 @@ nav ul li {
 }
 
 nav ul li a {
-	color: brown;
+	color: rgb(253, 0, 0);
 }
 .container {
 	display: flex;
